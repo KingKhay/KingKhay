@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KingKhay
-- 👀 I’m interested in Java, Go and JavaScript
+- 👀 I’m interested in Java, Docker, Kubernetes and JavaScript
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on any project relating to my interest
 - 📫 How to reach me _ebenezerbuabeng60@gmail.com_
