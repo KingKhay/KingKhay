@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KingKhay
+- 👋 Hi, I’m Ebenezer Buabeng
 - 👀 I’m interested in Java, Docker, Kubernetes and JavaScript
 - 🌱 I’m currently learning Linux
 - 💞️ I’m looking to collaborate on any project relating to my interest
