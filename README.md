@@ -24,10 +24,9 @@
   <a href="https://dev.to/kingkhay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/dev-dot-to.svg" alt="profclems" height="20" width="20" /></a>
   <a href="https://instagram.com/king_khay" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg" alt="clems_dev" height="20" width="20" /></a>
 </p>
-<br>
 
 ---
-<p align="center">![](https://github-readme-streak-stats.herokuapp.com/?user=kingkhay&theme=dark&hide_border=false)<br/></p>
+![](https://github-readme-streak-stats.herokuapp.com/?user=kingkhay&theme=dark&hide_border=false)<br/>
 
 [![](https://visitcount.itsvg.in/api?id=KingKhay&icon=0&color=0)](https://visitcount.itsvg.in)
 
