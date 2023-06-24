@@ -29,8 +29,8 @@
 
 ---
 <div align="center">
-<!-- <br><br>
-<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=kingkhay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages"> -->
+<br><br>
+<img src="https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=kingkhay&theme=radical&langs_count=10&card_width=540&layout=compact" alt="Most used languages">
  
 <!-- <br><br>
 <img src="https://streak-stats.demolab.com?user=kingkhay&theme=radical" height="150" alt="streaks graph" />
