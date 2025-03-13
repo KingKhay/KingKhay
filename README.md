@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Ebenezer Buabeng
-- 👀 I’m interested in Java, Go, Docker, Kubernetes and Angular
+- 👀 I’m interested in Java, Kotlin, Go, Docker and Kubernetes
 - 🌱 I’m currently learning Angular
 - 💞️ I’m looking to collaborate on any project relating to my interest
 - 📫 How to reach me _ebenezerbuabeng60@gmail.com_
