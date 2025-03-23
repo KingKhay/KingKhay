@@ -1,8 +1,8 @@
 - 👋 Hi, I’m Ebenezer Buabeng
 - 👀 I’m interested in Java, Kotlin, Go, Docker and Kubernetes
-- 🌱 I’m currently learning Angular
-- 💞️ I’m looking to collaborate on any project relating to my interest
 - 📫 How to reach me _ebenezerbuabeng60@gmail.com_
+
+However, I'm also intensively exploring Wiremock-Springboot (among other things)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ebenezer-buabeng-4152b3197) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@khay_dev1) 
